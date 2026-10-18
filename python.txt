@@ -1,0 +1,6 @@
+a=int(input())
+res=""
+for i in a:
+if a not in res:
+res.append
+print(res)
